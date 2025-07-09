@@ -88,8 +88,8 @@ pip install pandas scikit-learn matplotlib seaborn
 ## 👨‍💻 Author
 
 **Dheeraj Konakalla**  
-📧 dheeraj.konakalla@example.com  
-🔗 [GitHub](https://github.com/dheerajkonakalla) • [LinkedIn](https://linkedin.com/in/dheerajkonakalla)
+📧 dheerajkonakalla0412@gmail.com  
+🔗 [GitHub](https://github.com/dheerajkonakalla4) • [LinkedIn](https://www.linkedin.com/in/dheeraj-konakalla)
 
 ---
 
