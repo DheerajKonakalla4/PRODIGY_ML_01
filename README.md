@@ -63,9 +63,7 @@ python model.py
 
 A scatter plot is generated comparing actual vs predicted house sale prices.
 
-> ```
 > ![Output](output.png)
-> ```
 
 ---
 
