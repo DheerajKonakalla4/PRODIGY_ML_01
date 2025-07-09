@@ -1,73 +1,98 @@
-
-```markdown
 # 🏡 House Price Prediction using Linear Regression
 
-This project implements a **Linear Regression** model to predict house prices based on key features from the Ames Housing dataset, such as square footage, number of bedrooms, and number of bathrooms.
+This project implements a **Linear Regression** model to predict house prices based on important features from the Ames Housing dataset such as square footage, number of bedrooms, and number of bathrooms.
+
+---
 
 ## 📊 Features Used
+
 - `GrLivArea`: Above ground living area (in square feet)
 - `BedroomAbvGr`: Number of bedrooms above ground
-- `FullBath` + `HalfBath`: Combined as `TotalBath`
+- `FullBath + HalfBath`: Combined into `TotalBath`
+
+---
 
 ## 🧠 Model Summary
+
 - **Model**: Linear Regression
-- **Library**: scikit-learn
+- **Library**: Scikit-learn
 - **Train/Test Split**: 80/20
 - **Metrics**:
   - Mean Squared Error (MSE)
   - R² Score
-- **Visualization**: Scatter plot of actual vs predicted prices
+- **Visualization**: Scatter plot of actual vs predicted sale prices
+
+---
 
 ## 📁 Project Structure
-```
 
-house\_price\_prediction/
+```bash
+house_price_prediction/
 ├── train.csv
 ├── model.py
 ├── README.md
 ├── requirements.txt
-
 ```
+
+---
 
 ## 🚀 How to Run
 
-### 1. Install dependencies
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/house-price-prediction.git
+cd house-price-prediction
 ```
 
+### 2. Install Dependencies
+
+```bash
 pip install -r requirements.txt
-
 ```
 
-### 2. Run the project
-```
+### 3. Run the Project
 
+```bash
 python model.py
-
 ```
+
+---
 
 ## 🖼 Output Sample
 
-A scatter plot is generated comparing actual vs predicted sale prices.
+A scatter plot is generated comparing actual vs predicted house sale prices.
+
+> You can add your plot here using:
+> ```
+> ![Output](output.png)
+> ```
+
+---
 
 ## 📦 Requirements
+
 - Python 3.7+
 - pandas
 - scikit-learn
 - matplotlib
 - seaborn
 
-Install via:
-```
-
+Install manually if needed:
+```bash
 pip install pandas scikit-learn matplotlib seaborn
-
 ```
+
+---
 
 ## 👨‍💻 Author
+
 **Dheeraj Konakalla**  
 📧 dheeraj.konakalla@example.com  
-🔗 [GitHub](https://github.com) • [LinkedIn](https://linkedin.com)
+🔗 [GitHub](https://github.com/dheerajkonakalla) • [LinkedIn](https://linkedin.com/in/dheerajkonakalla)
+
+---
 
 ## 📜 License
+
 This project is open-sourced under the MIT License.
-```
