@@ -63,7 +63,6 @@ python model.py
 
 A scatter plot is generated comparing actual vs predicted house sale prices.
 
-> You can add your plot here using:
 > ```
 > ![Output](output.png)
 > ```
@@ -92,6 +91,7 @@ pip install pandas scikit-learn matplotlib seaborn
 🔗 [GitHub](https://github.com/dheerajkonakalla4) • [LinkedIn](https://www.linkedin.com/in/dheeraj-konakalla)
 
 ---
+
 
 ## 📜 License
 
